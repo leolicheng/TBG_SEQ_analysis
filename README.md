@@ -1,7 +1,7 @@
 # TBG_SEQ_analysis
 find mutations from sequence files
 
-Step 1: Convert files to FASTQ (e.g. TraceTuner(https://sourceforge.net/projects/tracetuner/ or Sequence conversion) for ab1 files to FASTQ)
+Step 1: Convert files to FASTQ (e.g. TraceTuner(https://sourceforge.net/projects/tracetuner/) for ab1 files to FASTQ)
 
 Step 2: Preprocess sequence files by FASTQC (e.g. generate FastQC Read Quality reports from online platform GALAXY)
 
