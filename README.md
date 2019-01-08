@@ -2,6 +2,7 @@
 find mutations from sequence files
 
 Step 1: Convert files to FASTQ (e.g. TraceTuner(https://sourceforge.net/projects/tracetuner/) for ab1 files to FASTQ or Bio.SeqIO.AbiIO(https://github.com/biopython/biopython/blob/master/Bio/SeqIO/AbiIO.py))
+
 Notes: different converters result in different analysis threshold
 
 Step 2: Preprocess sequence files by FASTQC (e.g. generate FastQC Read Quality reports from online platform GALAXY)
